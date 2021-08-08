@@ -134,6 +134,10 @@ header nav ul li a {
     height: 101%;
 }
 
+.bookfinder-img:hover {
+    content: url(../images/project-images/Book.gif);
+}
+
 .project-text {
     position: relative;
     bottom: 25%;
